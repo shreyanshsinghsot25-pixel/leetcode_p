@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shreyanshsinghsot25-pixel/leetcode_p/tree/master/0141-linked-list-cycle) |
+| [0349-intersection-of-two-arrays](https://github.com/shreyanshsinghsot25-pixel/leetcode_p/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -22,9 +23,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shreyanshsinghsot25-pixel/leetcode_p/tree/master/0141-linked-list-cycle) |
+| [0349-intersection-of-two-arrays](https://github.com/shreyanshsinghsot25-pixel/leetcode_p/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyanshsinghsot25-pixel/leetcode_p/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shreyanshsinghsot25-pixel/leetcode_p/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shreyanshsinghsot25-pixel/leetcode_p/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shreyanshsinghsot25-pixel/leetcode_p/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shreyanshsinghsot25-pixel/leetcode_p/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
