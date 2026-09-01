@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shreyanshsinghsot25-pixel/leetcode_p/tree/master/0349-intersection-of-two-arrays) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shreyanshsinghsot25-pixel/leetcode_p/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shreyanshsinghsot25-pixel/leetcode_p/tree/master/0349-intersection-of-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shreyanshsinghsot25-pixel/leetcode_p/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
